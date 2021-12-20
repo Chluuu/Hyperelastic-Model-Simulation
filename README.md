@@ -6,6 +6,4 @@ As the simulation of flesh requires 118 GB of RAM, it's unfeasible to simulate a
 
 ## Cube Simulation
 
-
-
-![image-20211220212452467](C:\Users\63211\AppData\Roaming\Typora\typora-user-images\image-20211220212452467.png)
+![b](https://user-images.githubusercontent.com/28896013/146775449-2d6d2fa7-ce69-4746-8d79-d23dd3468f87.JPG)
