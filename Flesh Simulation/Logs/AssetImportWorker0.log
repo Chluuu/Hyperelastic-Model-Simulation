@@ -1,0 +1,178 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.0f1c1 (1e553bf703d9) revision 1987899'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1415; Version 2009; 64bit' Language: 'zh' Physical Memory: 16273 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/2022a/Hyperelastic-Model-Simulation/Flesh Simulation
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63593
+Successfully changed project path to: F:/2022a/Hyperelastic-Model-Simulation/Flesh Simulation
+F:/2022a/Hyperelastic-Model-Simulation/Flesh Simulation
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 16.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1c1 (1e553bf703d9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/2022a/Hyperelastic-Model-Simulation/Flesh Simulation/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   
+    VRAM:     10078 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001281 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 16.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.564 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000385 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 1.535400 ms (FindLiveObjects: 0.171300 ms CreateObjectMapping: 0.050200 ms MarkObjects: 1.269400 ms  DeleteObjects: 0.043700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67878a740a6b29383db4cb28315414dc') in 0.005631 seconds
+  Import took 0.006986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.040471 seconds.
+  path: Assets/Cube.mat
+  artifactKey: Guid(658af64674ca1484e9b0b594ed212d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cube.mat using Guid(658af64674ca1484e9b0b594ed212d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978a771dd3f940ba682acc64c74d71a6') in 0.083186 seconds
+  Import took 0.085100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.945185 seconds.
+  path: Assets/Mats
+  artifactKey: Guid(cdecc7f1eaca5f849b0464f14da8380d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats using Guid(cdecc7f1eaca5f849b0464f14da8380d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652df5572e486d32d09b90a712d8663b') in 0.003852 seconds
+  Import took 0.005744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.069189 seconds.
+  path: Assets/New Scene.unity
+  artifactKey: Guid(1e143421bf6977a4b8d82a77aa88a299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Scene.unity using Guid(1e143421bf6977a4b8d82a77aa88a299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8514f4a9d85a7cd8bbeeaad9eae63f7c') in 0.004148 seconds
+  Import took 0.005853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.187043 seconds.
+  path: Assets/HyperelasticCube.unity
+  artifactKey: Guid(1e143421bf6977a4b8d82a77aa88a299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HyperelasticCube.unity using Guid(1e143421bf6977a4b8d82a77aa88a299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f071d5348e22372837086d771328575') in 0.093142 seconds
+  Import took 0.094870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.367672 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(087ef76898874b348a3a2612f3ed4a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(087ef76898874b348a3a2612f3ed4a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd175a517f73776568a045df6120e6c3') in 0.003726 seconds
+  Import took 0.005433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.736200 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70b5f5edf7c41b1048b89a74fe4a476') in 0.003874 seconds
+  Import took 0.005600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.795555 seconds.
+  path: Assets/Mats/Cube.mat
+  artifactKey: Guid(658af64674ca1484e9b0b594ed212d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mats/Cube.mat using Guid(658af64674ca1484e9b0b594ed212d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4d4ea0d7fc3d12b9c565a4adba753f') in 0.348390 seconds
+  Import took 0.351446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.476682 seconds.
+  path: Assets/HyperelasticCube.cs
+  artifactKey: Guid(c73740fa47e6e6746bac7b66aeb43d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HyperelasticCube.cs using Guid(c73740fa47e6e6746bac7b66aeb43d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916e01e0edbd455e4bd8e177e46f4679') in 0.009756 seconds
+  Import took 0.011669 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.541 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.1 MB.
+System memory in use after: 60.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 1.408000 ms (FindLiveObjects: 0.146200 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.220400 ms  DeleteObjects: 0.010700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.539796 seconds.
+  path: Assets/HyperelasticCube.unity
+  artifactKey: Guid(1e143421bf6977a4b8d82a77aa88a299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HyperelasticCube.unity using Guid(1e143421bf6977a4b8d82a77aa88a299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4308e27019ad8b485206ea7134d64796') in 0.009190 seconds
+  Import took 0.010663 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
